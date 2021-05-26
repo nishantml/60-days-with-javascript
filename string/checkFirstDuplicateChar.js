@@ -11,6 +11,6 @@ function checkFirstDuplicateChar(st) {
     return -1
 
 }
-
+// 2 minutes
 
 console.log(checkFirstDuplicateChar('Hello'))

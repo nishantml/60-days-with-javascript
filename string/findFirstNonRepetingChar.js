@@ -7,3 +7,5 @@ function firstNonRepeatedCharacter(string) {
     }
     return null;
 }
+
+// 5 minutes
