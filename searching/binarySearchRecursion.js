@@ -1,3 +1,4 @@
+// array should be sorted
 function binarySearchRecursion(nums, start, end, key) {
     while (start <= end) {
         let mid = parseInt((start + end) / 2)
@@ -15,4 +16,4 @@ function binarySearchRecursion(nums, start, end, key) {
 }
 
 let arr = [1, 2, 3, 4, 5, 6, 7, 10]
-console.log(binarySearchRecursion(arr, 0, arr.length - 1, 4))
+// console.log(binarySearchRecursion(arr, 0, arr.length - 1, 4))
